@@ -1,5 +1,13 @@
+#
+# Created on Thu Apr 30 2020
+#
+# Title: Leetcode - Valid Number
+#
+# Author: Harsh Patel
+# Web: harshpatel44.github.io
+#
 
-def solution_1():
+def solution():
     import re
     class Solution:
         def isNumber(self, s: str) -> bool:
