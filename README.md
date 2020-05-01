@@ -19,3 +19,4 @@ Open to contributions with interesting and more efficient solutions for the prob
 ## Contributors
 
 [**Vatsal Mistry**](https://mistryvatsal.github.io)
+[**Harsh Patel**](https://harshpatel44.github.io)
