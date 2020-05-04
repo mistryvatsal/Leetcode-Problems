@@ -4,6 +4,7 @@ A repository containing solutions to Leetcode Problems.
 
 ### Problems
 * [65-Valid-Number](65-Valid-Number/)
+* [Learn_Binary_Tree_Preorder_Traversal](Learn_Binary_Tree_Preorder_Traversal/)
 
 
 ## Contributing
