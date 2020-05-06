@@ -5,6 +5,8 @@ A repository containing solutions to Leetcode Problems.
 ### Problems
 * [65-Valid-Number](65-Valid-Number/)
 * [Learn_Binary_Tree_Preorder_Traversal](Learn_Binary_Tree_Preorder_Traversal/)
+* [Learn_Binary_Tree_Inorder_Traversal](Learn_Binary_Tree_Inorder_Traversal/)
+* [Learn_Binary_Tree_Postorder_Traversal](Learn_Binary_Tree_Postorder_Traversal/)
 
 
 ## Contributing
