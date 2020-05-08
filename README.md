@@ -10,6 +10,7 @@ A repository containing solutions to Leetcode Problems.
 * [Learn_Binary_Tree_Levelorder_Traversal](Learn_Binary_Tree_Levelorder_Traversal/)
 * [Learn_Maximum_Depth_Of_Binary_Tree](Learn_Maximum_Depth_Of_Binary_Tree/)
 * [Learn_Symmetric_Tree](Learn_Symmetric_Tree/)
+* [Learn_Path_Sum](Learn_Path_Sum/)
 
 
 ## Contributing
