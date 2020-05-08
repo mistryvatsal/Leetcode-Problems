@@ -8,6 +8,7 @@ A repository containing solutions to Leetcode Problems.
 * [Learn_Binary_Tree_Inorder_Traversal](Learn_Binary_Tree_Inorder_Traversal/)
 * [Learn_Binary_Tree_Postorder_Traversal](Learn_Binary_Tree_Postorder_Traversal/)
 * [Learn_Binary_Tree_Levelorder_Traversal](Learn_Binary_Tree_Levelorder_Traversal/)
+* [Learn_Maximum_Depth_Of_Binary_Tree](Learn_Maximum_Depth_Of_Binary_Tree/)
 
 
 ## Contributing
