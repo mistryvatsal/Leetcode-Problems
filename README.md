@@ -11,7 +11,8 @@ A repository containing solutions to Leetcode Problems.
 * [Learn_Maximum_Depth_Of_Binary_Tree](Learn_Maximum_Depth_Of_Binary_Tree/)
 * [Learn_Symmetric_Tree](Learn_Symmetric_Tree/)
 * [Learn_Path_Sum](Learn_Path_Sum/)
-
+* [Palindrome_Linked_List](Palindrome_Linked_List/)
+* [Remove_Nth_Node_From_Linkedlist](Remove_Nth_Node_From_Linkedlist/)
 
 ## Contributing
 
